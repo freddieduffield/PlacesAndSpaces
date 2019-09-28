@@ -1,0 +1,14 @@
+{
+    "local": {
+        "awscloudformation": {
+            "AuthRoleName": "placesandspaces-local-20190928170118-authRole",
+            "UnauthRoleArn": "arn:aws:iam::874592137112:role/placesandspaces-local-20190928170118-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::874592137112:role/placesandspaces-local-20190928170118-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "placesandspaces-local-20190928170118-deployment",
+            "UnauthRoleName": "placesandspaces-local-20190928170118-unauthRole",
+            "StackName": "placesandspaces-local-20190928170118",
+            "StackId": "arn:aws:cloudformation:eu-west-2:874592137112:stack/placesandspaces-local-20190928170118/34f75c00-e209-11e9-9936-060e4e394d84"
+        }
+    }
+}
